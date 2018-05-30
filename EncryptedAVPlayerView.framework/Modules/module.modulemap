@@ -1,0 +1,11 @@
+framework module EncryptedAVPlayerView {
+  umbrella header "EncryptedAVPlayerView.h"
+
+  export *
+  module * { export * }
+}
+
+module EncryptedAVPlayerView.Swift {
+    header "EncryptedAVPlayerView-Swift.h"
+    requires objc
+}

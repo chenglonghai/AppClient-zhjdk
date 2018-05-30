@@ -1,0 +1,21 @@
+//
+//  AppClient-PrefixHeader.pch
+//  AppClient
+//
+//  Created by APAPA on 2017/6/27.
+//  Copyright © 2017年 Chenlonghai. All rights reserved.
+//
+
+#ifndef AppClient_PrefixHeader_pch
+#define AppClient_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "CLHConst.h"
+#import "CLHMacros.h"
+#import "CLHCategory.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* AppClient_PrefixHeader_pch */
